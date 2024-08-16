@@ -1,0 +1,11 @@
+BMR REPORT : 
+Name : Yaser
+Gender : Male
+Inch : 12.000000
+KG : 41.000000
+Year : 25
+Activity Factor : 
+Moderate : 995.080688
+The Weight To Loose : 1
+Calories To Loose : -6704
+Date and Time of Report : 05/15/21 : 07:54PM

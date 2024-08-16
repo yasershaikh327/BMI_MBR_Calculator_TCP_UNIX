@@ -1,0 +1,11 @@
+//Instrcutions To Run
+Just Type the word 'make' it will create compile and create output file named as Run
+To run the file type : './run'
+
+//In case you are geeting error for compliation then type
+gcc -c BMR_BMI_Client.c
+gcc -c BMR_BMI_Client_Function.c
+gcc -c BMI_SERVER.c
+gcc -c BMR_SERVER.c
+gcc -c Prototypes.h
+and then type 'make' to compile and follow the steps mentioned earlier to run: './run'
